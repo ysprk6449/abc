@@ -1,7 +1,7 @@
 /**
  * const,let等の変数宣言
  */
-var val = "var変数" ;
-consle.log(val1);
+var val1 = "var変数";
+console.log(val1);
 
 
