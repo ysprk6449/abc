@@ -122,7 +122,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
  * const,let等の変数宣言
  */
 var vall = "var変数";
-consle.log(vall1);
+consle.log(val1);
 },{}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
